@@ -13,7 +13,7 @@ const Banner = () => {
             <h2 class="text-3xl text-left  text-gray-700 font-bold">
             Organic foods have a reputation 
             </h2>
-            <h2 class="text-3xl text-gray-700 font-bold ">
+            <h2 class="text-3xl mb-2 text-gray-700 font-bold ">
             for being healthy and nutritious 
             </h2>
             <h2 class="text-xl text-gray-700 font-light">

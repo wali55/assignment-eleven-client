@@ -17,7 +17,7 @@ const Header = () => {
           </span>
         </Navbar.Brand>
         <div className="flex md:order-2">
-          <Button>Get started</Button>
+          <button className="bg-lime-500 py-2 px-4 rounded text-white font-semibold hover:bg-orange-500">Get Started</button>
           <Navbar.Toggle />
         </div>
         <Navbar.Collapse>
