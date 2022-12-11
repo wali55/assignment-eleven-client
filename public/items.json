@@ -1,0 +1,66 @@
+[
+    {
+      "picture": "https://i.ibb.co/kxpjLMZ/product1.jpg",
+      "price": 56,
+      "quantity": 14,
+      "name": "Organic Spinach",
+      "supplierName": "Millers Farm",
+      "description": "Get the best quality spinach form the local farmer. Also cost is reasonable."
+    },
+    {
+      "picture": "https://i.ibb.co/XYBgymH/product2.jpg",
+      "price": 41,
+      "quantity": 12,
+      "name": "Organic Banana",
+      "supplierName": "Bio Farm",
+      "description": "The quality is great and there is no pesticide is used."
+    },
+    {
+      "picture": "https://i.ibb.co/5LDMmgd/product3.jpg",
+      "price": 44,
+      "quantity": 19,
+      "name": "Organic Lettuce",
+      "supplierName": "Elis Farm",
+      "description": "The fresh and testy lettuce for everybody. Great quality."
+    },
+    {
+      "picture": "https://i.ibb.co/8j04fmW/product4.jpg",
+      "price": 30,
+      "quantity": 11,
+      "name": "Organic Bread",
+      "supplierName": "Johns Bakery",
+      "description": "Great quality sourdough bread. Good for your gut."
+    },
+    {
+      "picture": "https://i.ibb.co/7QKwcZF/product5.jpg",
+      "price": 59,
+      "quantity": 14,
+      "name": "Walls Farm",
+      "supplierName": "Organic Fig",
+      "description": "Highly nutritious and organic fig. For your healthy life."
+    },
+    {
+      "picture": "https://i.ibb.co/LNLmrkF/product6.jpg",
+      "price": 49,
+      "quantity": 16,
+      "name": "Organic Beetroot",
+      "supplierName": "RUBis Farm",
+      "description": "Healthy and delicious beetroot for you. Great quality."
+    },
+    {
+      "picture": "https://i.ibb.co/wrg2v9B/product7.jpg",
+      "price": 54,
+      "quantity": 18,
+      "name": "Organic Raspberry",
+      "supplierName": "Yoga Farm",
+      "description": "Fresh and delicious fruit for your better physical and mental health."
+    },
+    {
+      "picture": "https://i.ibb.co/LkxdFBF/product8.jpg",
+      "price": 51,
+      "quantity": 15,
+      "name": "Cabbage",
+      "supplierName": "Exo Farm",
+      "description": "Great quality cabbage with affordable price. Organic life."
+    }
+  ]
