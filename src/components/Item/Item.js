@@ -13,16 +13,22 @@ const Item = ({ item }) => {
           <p className="font-normal mb-3 text-gray-700 dark:text-gray-400">
             {item.description}
           </p>
-          <p className="mb-3 font-bold text-xl  text-green-700 dark:text-gray-400">
-            ${item.price}
-          </p>
-          <p className="font-normal mb-3 text-gray-700 dark:text-gray-400">
-            <span className="pr-1 font-bold">Quantity:</span>{item.quantity}
-          </p>
-          <p className="font-normal mb-3 text-gray-700 dark:text-gray-400">
-          <span className="pr-1 font-bold">Supplier:</span>{item.supplierName}
-          </p>
-          <button className="bg-lime-500 py-2 px-4 rounded text-white font-semibold hover:bg-orange-500">Update</button>
+          <div>
+            <p className="mb-3 font-bold text-xl  text-green-700 dark:text-gray-400">
+              ${item.price}
+            </p>
+            <p className="font-normal mb-3 text-gray-700 dark:text-gray-400">
+              <span className="pr-1 font-bold">Quantity:</span>
+              {item.quantity}
+            </p>
+            <p className="font-normal mb-3 text-gray-700 dark:text-gray-400">
+              <span className="pr-1 font-bold">Supplier:</span>
+              {item.supplierName}
+            </p>
+          </div>
+          <button className="bg-lime-500 py-2 px-4 rounded text-white font-semibold hover:bg-orange-500">
+            Update
+          </button>
         </div>
       </Card>
     </div>
